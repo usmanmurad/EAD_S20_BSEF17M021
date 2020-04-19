@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\WebApplication2\Entities\bin\Debug\Entities.dll
+C:\Users\dell\source\repos\WebApplication2\Entities\bin\Debug\Entities.pdb
+C:\Users\dell\source\repos\WebApplication2\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\WebApplication2\Entities\obj\Debug\Entities.dll
+C:\Users\dell\source\repos\WebApplication2\Entities\obj\Debug\Entities.pdb
+C:\Users\usman\source\repos\WebApplication2\Entities\bin\Debug\Entities.dll
+C:\Users\usman\source\repos\WebApplication2\Entities\bin\Debug\Entities.pdb
+C:\Users\usman\source\repos\WebApplication2\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\usman\source\repos\WebApplication2\Entities\obj\Debug\Entities.dll
+C:\Users\usman\source\repos\WebApplication2\Entities\obj\Debug\Entities.pdb
