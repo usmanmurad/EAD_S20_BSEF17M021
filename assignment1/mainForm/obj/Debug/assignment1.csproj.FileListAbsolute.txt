@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\assignment1\mainForm\bin\Debug\mainForm.exe.config
+C:\Users\dell\source\repos\assignment1\mainForm\bin\Debug\mainForm.exe
+C:\Users\dell\source\repos\assignment1\mainForm\bin\Debug\mainForm.pdb
+C:\Users\dell\source\repos\assignment1\mainForm\obj\Debug\assignment1.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\assignment1\mainForm\obj\Debug\mainForm.adminForm.resources
+C:\Users\dell\source\repos\assignment1\mainForm\obj\Debug\mainForm.existingUser.resources
+C:\Users\dell\source\repos\assignment1\mainForm\obj\Debug\mainForm.mainForm.resources
+C:\Users\dell\source\repos\assignment1\mainForm\obj\Debug\mainForm.newUser.resources
+C:\Users\dell\source\repos\assignment1\mainForm\obj\Debug\mainForm.Properties.Resources.resources
+C:\Users\dell\source\repos\assignment1\mainForm\obj\Debug\assignment1.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\assignment1\mainForm\obj\Debug\mainForm.exe
+C:\Users\dell\source\repos\assignment1\mainForm\obj\Debug\mainForm.pdb
+C:\Users\dell\source\repos\assignment1\mainForm\obj\Debug\mainForm.userHome.resources
+C:\Users\dell\source\repos\assignment1\mainForm\obj\Debug\mainForm.adminHome.resources
